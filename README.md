@@ -5,7 +5,7 @@ Add your full C++ program here
 #include <string>
 #include <cmath>
 #include <algorithm>
-
+ 
 using namespace std;
 
 // Function to convert decimal to binary
